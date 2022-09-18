@@ -8,7 +8,7 @@ from Modules._shodan1 import Shodan1
 from Modules.exploit_db import exploit_db_
 from Modules.ssh import Main
 from Modules.port_scanner import scanner
-
+from Modules.pyphisher import *
 yes = ["yes", "y", "ye", "Y", "YES", 'YE']
 no = ["no", "n", "NO", "n"]
 
